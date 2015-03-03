@@ -1,0 +1,18 @@
+{
+  "name": "node2",
+  "version": "1.0.0",
+  "description": "Practica para Quiz",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Alfaro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.0",
+    "express3-handlebars": "^0.5.2",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-exec": "^0.4.6"
+  }
+}
